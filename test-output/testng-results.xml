@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T21:36:31 IST" name="Default suite" finished-at="2024-03-27T21:36:40 IST" duration-ms="9077">
+    <groups>
+    </groups>
+    <test started-at="2024-03-27T21:36:31 IST" name="Default test" finished-at="2024-03-27T21:36:40 IST" duration-ms="9077">
+      <class name="api.testCases.UserTest_MultipleRealData">
+        <test-method signature="newCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testCases.UserTest_MultipleRealData@5fe94a96]" started-at="2024-03-27T21:36:31 IST" name="newCreateUser" data-provider="userData" finished-at="2024-03-27T21:36:35 IST" duration-ms="3598" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirosh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RR]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[223]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[as22@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[231412223]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[wqeqw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCreateUser -->
+        <test-method signature="newCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testCases.UserTest_MultipleRealData@5fe94a96]" started-at="2024-03-27T21:36:35 IST" name="newCreateUser" data-provider="userData" finished-at="2024-03-27T21:36:36 IST" duration-ms="1330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhusha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[D34534D]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jgf@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5435353532]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dsada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCreateUser -->
+        <test-method signature="newCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testCases.UserTest_MultipleRealData@5fe94a96]" started-at="2024-03-27T21:36:36 IST" name="newCreateUser" data-provider="userData" finished-at="2024-03-27T21:36:37 IST" duration-ms="1299" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pasan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[34543]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ds@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[343423543]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[23eqw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCreateUser -->
+        <test-method signature="newCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testCases.UserTest_MultipleRealData@5fe94a96]" started-at="2024-03-27T21:36:37 IST" name="newCreateUser" data-provider="userData" finished-at="2024-03-27T21:36:39 IST" duration-ms="1378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sayu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[VV]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[V234V]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sad@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2332414124]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[45t4gs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCreateUser -->
+        <test-method signature="newCreateUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.testCases.UserTest_MultipleRealData@5fe94a96]" started-at="2024-03-27T21:36:39 IST" name="newCreateUser" data-provider="userData" finished-at="2024-03-27T21:36:40 IST" duration-ms="1406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nirosha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WW]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[W131W]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fd131@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[768464636]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[32e23e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCreateUser -->
+      </class> <!-- api.testCases.UserTest_MultipleRealData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
